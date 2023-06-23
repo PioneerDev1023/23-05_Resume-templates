@@ -1,0 +1,9 @@
+photo
+firstname
+lastname
+occupation
+address
+city
+phone
+email
+summary

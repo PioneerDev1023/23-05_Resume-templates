@@ -7,6 +7,7 @@ const Index = () => {
             <header className="h-16 border-b border-solid">
                 <a href="/#/first"><button className="text-white border border-solid rounded-md mt-[10px] ml-2 py-2 px-4">First Template</button></a>
                 <a href="/#/second"><button className="text-white border border-solid rounded-md mt-[10px] ml-2 py-2 px-4">Second Template</button></a>
+                {/* <a href="/#/main"><button className="text-white border border-solid rounded-md mt-[10px] ml-2 py-2 px-4">Main Template</button></a> */}
             </header>
         </div>
     )
